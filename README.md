@@ -4,7 +4,7 @@
 
 ## 🌟 Feature Summary Table
 
-| Functionality           | Description                                                                 |
+| Functionality           | Description          26                      237                                 |
 |-------------------------|-----------------------------------------------------------------------------|
 | 🌾 Dupe Seeds           | Instantly clone any seeds without needing a key                             |
 | 🌕 AUTO MOONLIT         | Automates the Moonlit garden tasks and quests                               |
